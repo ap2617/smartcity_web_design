@@ -1,0 +1,269 @@
+/* *{
+    margin:0%;
+    padding: 0%;
+    list-style: none;
+}
+.menu ul{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap:4px
+}
+#navbarNav ul li{
+    font-size: 18px;
+    padding-bottom: 5px;
+} */
+/* #navbarNav ul{
+    gap: 18px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+#navbarNav ul li a{
+    color: green;
+}
+#navbarNav ul  button{
+    background: green;
+    padding: 10px;
+    color: white;
+}
+#navbarNav ul button:hover{
+    background: white;
+    transition: 0.5s;
+    color: green;
+}
+
+.search i{
+    color:#ccc
+}
+#About{
+    background:lightgray;
+} */
+*{
+    text-decoration: none;
+    list-style: none;
+}
+#heading{
+    padding: 3px;
+}
+.navbar-nav li a{
+    color: blue;
+}
+#title button {
+    background: green;
+    color: white;
+}
+.navbar-nav {
+    gap: 20px;
+}
+#title button a{
+    color:white;
+    text-decoration: none;
+}
+.overview_middle{
+      display: flex;
+      align-items: center;
+}
+.plot1 ul li{
+    display: flex;
+    align-items: center;
+}
+.plot1 ul li p{
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.plot2 ul li{
+    display: flex;
+    align-items: center;
+
+}
+.plot2 ul li p{
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.logo{
+    display: flex;
+    justify-content: center; 
+}
+.batch{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 10px;
+}
+.batch_1{
+   padding: 20px;
+   text-align: center;
+}
+.offcanvas-body ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    color: blue;
+}
+.site{
+    text-align: center;
+    padding: 20px;
+}
+.site h2{
+    color: rgb(66, 113, 207);
+    padding: 10px;
+}
+.site p{
+    padding: 10px;
+}
+.btn1{
+    padding: 15px;
+    background: rgb(231, 207, 49);
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn_dow{
+      display: flex;
+      justify-content: center;
+      padding: 30px;
+      margin-top: 20px;
+}
+#location h2{
+    text-align: center;
+    color: rgb(66, 113, 207);
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+#location p{
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
+#location {
+    text-align: center;
+    margin-top: 30px;
+}
+#gallery h2{
+     text-align: center;
+     color: rgb(66, 113, 207);
+     padding: 20px;
+     margin-top: 10px;
+     margin-bottom: 20px;
+}
+#gallery img{
+    width:250px;
+    height: 245px;
+     padding-bottom: 20px;
+}
+#gallery{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.faq_head h2{
+    text-align: center;
+    color: rgb(66, 113, 207);
+    margin-top: 20px;
+}
+.faq_head p{
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+.faq_body{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.faq_body  h5 span{
+    position: absolute;
+    right: 10%;   
+}
+.faq_body h5{
+    cursor: pointer;
+    padding: 10px;
+}
+.faq_body p{
+    display: none;
+    padding: 10px;
+    font-size: 18px;
+}
+.faq_show{
+    display: block !important;
+}
+#contact{
+    margin-top: 40px;
+    padding: 50px;
+    background: rgb(246, 243, 243);
+    display: flex;   
+    
+}
+#contact h2{
+    color: rgb(66, 113, 207);
+    padding: 15px;   
+}
+#contact p{
+    padding: 10px;
+}
+#contact button{
+    background: green;
+    padding: 10px;
+    color: white;
+}
+#last{
+    background: rgb(66, 113, 207);
+    height: 350px;
+    display: flex;
+    align-items: center;
+   
+}
+#last h5{
+    text-align: left;
+    color: white;
+}
+#last h5{
+    color: white;
+}
+#last p{
+    color: white;
+    font-size: 18px;
+}
+.form{
+    width: 420px;
+    height: 420px;
+    position: fixed;
+    left: 20%;
+    top: -80%;
+    transform: translate(40%,-80%);
+    box-shadow: 0px 0px 10px 2px #ccc;
+    padding: 10px;
+    background: white;
+}
+.form input{
+    margin: 10px;
+    width: 90%;
+    padding: 5px;
+}
+.form h4{
+    padding: 10px;
+    position: relative;
+}
+.form h4 span{
+    position: absolute;
+    right: 2%;
+    cursor: pointer;
+}
+.form button{
+    background: green;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 90%;
+    margin: 10px; 
+}
+.form textarea{
+    width: 90%;
+    margin: 10px;   
+}
+.show_form{
+    top: 80%;
+    left: 20%;
+    transition: 0.5s;
+}
