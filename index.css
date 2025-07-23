@@ -1,44 +1,4 @@
-/* *{
-    margin:0%;
-    padding: 0%;
-    list-style: none;
-}
-.menu ul{
-    display: flex;
-    align-items: center;
-    justify-content: left;
-    gap:4px
-}
-#navbarNav ul li{
-    font-size: 18px;
-    padding-bottom: 5px;
-} */
-/* #navbarNav ul{
-    gap: 18px;
-    padding: 5px;
-    display: flex;
-    align-items: center;
-}
-#navbarNav ul li a{
-    color: green;
-}
-#navbarNav ul  button{
-    background: green;
-    padding: 10px;
-    color: white;
-}
-#navbarNav ul button:hover{
-    background: white;
-    transition: 0.5s;
-    color: green;
-}
 
-.search i{
-    color:#ccc
-}
-#About{
-    background:lightgray;
-} */
 *{
     text-decoration: none;
     list-style: none;
