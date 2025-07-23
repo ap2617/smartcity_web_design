@@ -20,7 +20,7 @@ It helped me improve in the following areas:
 
 - HTML5  
 - CSS3  
-- JavaScript (Basic)  
+- JavaScript
 
 ---
 
