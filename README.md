@@ -26,8 +26,9 @@ It helped me improve in the following areas:
 
 ## 📸 Screenshots
 
-
-
+Link demo[https://github.com/ap2617/smartcity_web_design/blob/main/web1.png]
+[https://github.com/ap2617/smartcity_web_design/blob/main/web2.png]
+[https://github.com/ap2617/smartcity_web_design/blob/main/web3.png]
 ---
 
 ## 🔗 Live Demo
