@@ -49,7 +49,7 @@ All rights belong to the respective owners.
 ## 🙌 Feedback
 
 I’m open to any suggestions or feedback to help me improve.  
-Feel free to raise an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+Feel free to raise an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/Arpita Prajapti)
 
 ---
 
