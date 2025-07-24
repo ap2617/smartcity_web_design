@@ -33,7 +33,7 @@ Link demo[https://github.com/ap2617/smartcity_web_design/blob/main/web1.png]
 
 ## 🔗 Live Demo
 
-[Click here to view the live version](https://your-live-site-link.com)
+[Click here to view the live version](https://ap2617.github.io/smartcity_web_design/)
 
 ---
 
