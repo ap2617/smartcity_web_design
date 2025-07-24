@@ -189,9 +189,9 @@
     width: 420px;
     height: 420px;
     position: fixed;
-    left: 20%;
+    left: 0%;
     top: -80%;
-    transform: translate(40%,-80%);
+    transform: translate(0%,-80%);
     box-shadow: 0px 0px 10px 2px #ccc;
     padding: 10px;
     background: white;
@@ -224,6 +224,6 @@
 }
 .show_form{
     top: 80%;
-    left: 20%;
+    left: 0%;
     transition: 0.5s;
 }
